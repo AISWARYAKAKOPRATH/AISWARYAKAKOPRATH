@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aiswarya Kakoprath</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Statistics Master's Grad | Data Science & BI Certified | Open for Opportunities</h3>
+
+- 🌱 I’m currently learning **SAS, NLP**
+
+- 💬 Ask me about **
+- Data analysis techniques and methodologies Python for data manipulation and analysis
+- SQL for querying databases and extracting insights, Machine learning algorithms and model building
+- Data visualization using libraries like Matplotlib, Seaborn and tools Tableau and Power BI
+- Exploratory data analysis (EDA) to uncover patterns and trends
+- Projects I'm working on to hone my data science skills
+- Resources and tips for aspiring data scientists
+- Collaborating on data-driven projects
+- Anything else related to data science or analytics—I'm eager to learn and discuss!**
 
 - 📫 How to reach me **aiswaryakakoprath312@gmail.com**
 
